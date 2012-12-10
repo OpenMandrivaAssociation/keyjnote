@@ -39,3 +39,25 @@ OpenGL, which allows for some "eye candy" effects.
 %doc keyjnote.html demo.pdf license.txt
 %{_bindir}/%{name}*
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.10.2-4mdv2011.0
++ Revision: 619962
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0.10.2-3mdv2010.0
++ Revision: 429669
+- rebuild
+
+* Fri Aug 08 2008 Thierry Vignaud <tv@mandriva.org> 0.10.2-2mdv2009.0
++ Revision: 267784
+- rebuild early 2009.0 package (before pixel changes)
+
+* Thu Jun 12 2008 Lev Givon <lev@mandriva.org> 0.10.2-1mdv2009.0
++ Revision: 218605
+- import keyjnote
+
+
+* Thu Jun 12 2008 Lev Givon <lev@mandriva.org> 0.10.2-1mdv2008.1
+- Package for Mandrive.
