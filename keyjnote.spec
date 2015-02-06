@@ -1,7 +1,7 @@
 %define tarname KeyJnote
 %define name keyjnote
 %define version 0.10.2
-%define release %mkrel 4
+%define release 5
 
 Summary: OpenGL-based slide presentation program
 Name: %{name}
