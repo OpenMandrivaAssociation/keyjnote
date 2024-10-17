@@ -10,7 +10,7 @@ Release: %{release}
 Source0: %{tarname}-%{version}.tar.gz
 License: GPLv2
 Group: Office
-Url: http://keyjnote.sourceforge.net
+Url: https://keyjnote.sourceforge.net
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 Requires: python >= 2.3
